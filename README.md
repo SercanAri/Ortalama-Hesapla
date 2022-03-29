@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-![](https://i.hizliresim.com/scwu7lj.png)
-![](https://i.hizliresim.com/iiacpbz.png)
+<img src="https://i.hizliresim.com/scwu7lj.png" width="250" height="500">
+<img src="https://i.hizliresim.com/iiacpbz.png" width="250" height="500">
 
 ## Getting Started
 
